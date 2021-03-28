@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Inqiyad Patwary's Website!
 
 You can use the [editor on GitHub](https://github.com/inqi007/inqi007.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
